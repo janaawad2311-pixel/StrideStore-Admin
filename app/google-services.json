@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699508322559",
+    "project_id": "stridestore-admin",
+    "storage_bucket": "stridestore-admin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699508322559:android:786403232e843eb7821cca",
+        "android_client_info": {
+          "package_name": "com.example.stridestore_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSkpi5RmLlKmgy55PX9FxBcOFI8Q6Racw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
